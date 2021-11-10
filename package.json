@@ -8,12 +8,15 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@react-native-community/datetimepicker": "^3.5.2",
     "expo": "~43.0.0",
     "expo-status-bar": "~1.1.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.2",
-    "react-native-web": "0.17.1"
+    "react-native-modal-datetime-picker": "^13.0.0",
+    "react-native-web": "0.17.1",
+    "shortid": "^2.2.16"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
